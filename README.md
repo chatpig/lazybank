@@ -1,4 +1,4 @@
-#### run it by python:
+#### run it by:
 ```
 python server.py
 ```
