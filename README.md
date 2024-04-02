@@ -8,7 +8,7 @@ python server.py
 #### lazybank contract
 - few lines code; two functions (deposit + withdraw); one balance check for specific address; no more
 - no contract owner; not staking; no interest; no reward; nothing
-- just public storage; do prepare your own lock🔐🐷
+- just free public storage; do prepare your own lock🔐🐷
 #### testnet (recommended)
 - Sepolia (id: `11155111`; compiler: `^0.8.25`)
 [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
