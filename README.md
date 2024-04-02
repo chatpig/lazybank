@@ -19,6 +19,8 @@ python server.py
 - Ethereum (id: `1`; compiler: `^0.8.25`)
 [contract address](https://etherscan.io/address/0xcC17Af1a631Ec81f495202556B371820c80A3679)
 #### freemint contract
+- free mint forever (but need to fuel your wallet to cover the gas fee)⛽
+- allow owner to edit the content under portfolio dashboard🃏
 #### mainnet
 - Ethereum (id: `1`; compiler: `^0.8.24`) [contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)
 #### testnet
