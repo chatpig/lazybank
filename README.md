@@ -33,7 +33,7 @@ python server.py
 - Arbitrum (id: `421614`; compiler: `^0.8.24`) [contract address](https://sepolia.arbiscan.io/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
 - Optimism (id: `11155420`; compiler: `^0.8.24`) [contract address](https://sepolia-optimism.etherscan.io/address/0x17F6E6E620cec1054b9E1F15b461Ca8deAfD904c)
 - Fantom (id: `4002`; compiler: `^0.8.19`) [contract address](https://testnet.ftmscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
-- Avalanche (id: `43113`; compiler: `^0.8.25`) [contract address](https://testnet.snowtrace.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
+- Avalanche (id: `43113`; compiler: `^0.8.24`) [contract address](https://testnet.snowtrace.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Scroll (id: `534351`; compiler: `^0.8.24`) [contract address](https://sepolia.scrollscan.com/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Blast (id: `168587773`; compiler: `^0.8.24`) [contract address](https://sepolia.blastscan.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Mumbai (id: `80001`; compiler: `^0.8.25`) [contract address](https://mumbai.polygonscan.com/address/0x5F7ae3DEB7ce9DDC244DE3e1b1BebdC3901dc562)
