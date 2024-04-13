@@ -29,11 +29,11 @@ python server.py
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Linea* (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3) *phase out soon
 - Linea (id: `59141`; compiler: `^0.8.19`) [contract address](https://sepolia.lineascan.build/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
-- Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xc219ae2319E280D3ecda75Ecd089dd0e25F6D048)
 - Arbitrum (id: `421614`; compiler: `^0.8.24`) [contract address](https://sepolia.arbiscan.io/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
 - Optimism (id: `11155420`; compiler: `^0.8.24`) [contract address](https://sepolia-optimism.etherscan.io/address/0x17F6E6E620cec1054b9E1F15b461Ca8deAfD904c)
 - Scroll (id: `534351`; compiler: `^0.8.24`) [contract address](https://sepolia.scrollscan.com/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Blast (id: `168587773`; compiler: `^0.8.24`) [contract address](https://sepolia.blastscan.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
+- Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xc219ae2319E280D3ecda75Ecd089dd0e25F6D048)
 - Binance (id: `97`; compiler: `^0.8.24`) [contract address](https://testnet.bscscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`) [contract address](https://testnet.snowtrace.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Fantom (id: `4002`; compiler: `^0.8.19`) [contract address](https://testnet.ftmscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
