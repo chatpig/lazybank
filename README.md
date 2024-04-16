@@ -31,7 +31,12 @@ layer-2
 - free mint forever (but should fuel your wallet a penny to cover the gas fee)⛽
 - allow owner to edit the content under portfolio dashboard🃏
 #### mainnet
-- Ethereum (id: `1`; compiler: `^0.8.24`) [contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)
+- Ethereum (id: `1`; compiler: `^0.8.24`)
+[contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)
+
+layer-2
+- Base (id: `8453`; compiler: `^0.8.25`)
+[contract address](https://basescan.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 #### testnet
 - Goerli* (id: `5`; compiler: `^0.8.24`) [contract address](https://goerli.etherscan.io/address/0x94a72e3ed15F17633Ae66173A3d307a055385E55) *deprecated (might not work)
 - Sepolia (id: `11155111`; compiler: `^0.8.24`) [contract address](https://sepolia.etherscan.io/address/0x9Ef8BAB03aa891Ee625fCfAf0DF482036cf71420)
