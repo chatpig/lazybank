@@ -49,7 +49,7 @@ layer-2
 - Blast (id: `168587773`; compiler: `^0.8.24`) [contract address](https://sepolia.blastscan.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
 - Binance (id: `97`; compiler: `^0.8.24`) [contract address](https://testnet.bscscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`) [contract address](https://testnet.snowtrace.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9)
-- Fantom (id: `4002`; compiler: `^0.8.19`) [contract address](https://testnet.ftmscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
+- Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *same problem as Linea above
 - Bera (id: `80085`; compiler: `^0.8.24`) [contract address](https://artio.beratrail.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Amoy (id: `80002`; compiler: `^0.8.24`) [contract address](https://www.oklink.com/amoy/address/0xa7d555bEF14f10202Bb951DB64095786a040C945)
 - Mumbai (id: `80001`; compiler: `^0.8.25`) [contract address](https://mumbai.polygonscan.com/address/0x5F7ae3DEB7ce9DDC244DE3e1b1BebdC3901dc562)
