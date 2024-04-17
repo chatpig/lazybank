@@ -21,7 +21,7 @@ layer-2
 - Optimism (id: `11155420`; compiler: `^0.8.25`) [contract address](https://sepolia-optimism.etherscan.io/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
 - Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be)
 - Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
-- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will fail to deploy and waste your gas
+- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will lead to deployment failure and waste your gas
 #### mainnet (not recommend for nobies)
 - Ethereum (id: `1`; compiler: `^0.8.25`)
 [contract address](https://etherscan.io/address/0xcC17Af1a631Ec81f495202556B371820c80A3679)
