@@ -34,7 +34,7 @@ layer-2
 
 layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)🐷🐷
-- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
+- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xa1234443A683A58bA013854E605baa0add2fAB65)
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)
 #### testnet
 - Goerli* (id: `5`; compiler: `^0.8.24`) [contract address](https://goerli.etherscan.io/address/0x94a72e3ed15F17633Ae66173A3d307a055385E55) *deprecated (might not work)
