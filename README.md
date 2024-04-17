@@ -18,12 +18,10 @@ layer-1
 [contract address](https://holesky.etherscan.io/address/0x07cDb2d8C3130EB39105DCB56ce9622b5f7bFE36)
 
 layer-2
-- Optimism (id: `11155420`; compiler: `^0.8.25`)
-[contract address](https://sepolia-optimism.etherscan.io/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
-- Arbitrum (id: `421614`; compiler: `^0.8.25`)
-[contract address](https://sepolia.arbiscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be)
-- Base (id: `84532`; compiler: `^0.8.25`)
-[contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
+- Optimism (id: `11155420`; compiler: `^0.8.25`) [contract address](https://sepolia-optimism.etherscan.io/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
+- Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be)
+- Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
+- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will fail to deploy and waste your gas
 #### mainnet (not recommend for nobies)
 - Ethereum (id: `1`; compiler: `^0.8.25`)
 [contract address](https://etherscan.io/address/0xcC17Af1a631Ec81f495202556B371820c80A3679)
@@ -40,7 +38,7 @@ layer-2
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)
 #### testnet
 - Goerli* (id: `5`; compiler: `^0.8.24`) [contract address](https://goerli.etherscan.io/address/0x94a72e3ed15F17633Ae66173A3d307a055385E55) *deprecated (might not work)
-- Sepolia (id: `11155111`; compiler: `^0.8.24`) [contract address](https://sepolia.etherscan.io/address/0x9Ef8BAB03aa891Ee625fCfAf0DF482036cf71420)
+- Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x26D0EFf86B4685366bACcA7C57BA60b75b906392)
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Linea* (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3) *phase out soon
 - Linea (id: `59141`; compiler: `^0.8.19`) [contract address](https://sepolia.lineascan.build/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
