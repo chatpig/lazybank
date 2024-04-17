@@ -30,10 +30,10 @@ layer-2
 - allow owner to edit the content under portfolio dashboard🃏
 #### mainnet
 - Ethereum (id: `1`; compiler: `^0.8.24`)
-[contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)
+[contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)🐷🐷🐷
 
 layer-2
-- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)
+- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)🐷🐷
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xa1234443A683A58bA013854E605baa0add2fAB65)
 #### testnet
