@@ -21,8 +21,12 @@ layer-2
 - Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
 - Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will lead to deployment failure and waste your gas
 #### mainnet (not recommend for nobies)
-- Ethereum (id: `1`; compiler: `^0.8.25`)
-[contract address](https://etherscan.io/address/0xcC17Af1a631Ec81f495202556B371820c80A3679)
+- Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+
+layer-2
+- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### freemint contract
 - free mint forever (but should fuel your wallet a penny to cover the gas fee)⛽
 - allow owner to edit the content under portfolio dashboard🃏
