@@ -32,6 +32,10 @@ layer-2
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
+side
+- Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+
 ### stage 1
 #### freemint contract
 - free mint forever (but should fuel your wallet a penny to cover the gas fee)⛽
@@ -73,6 +77,7 @@ layer-2
 
 *side
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
+- Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch image data; wait for upgrade; recently closed
 
 #### testnet (recommended)
 *layer-1
