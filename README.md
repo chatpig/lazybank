@@ -20,6 +20,10 @@ layer-2
 - Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be)
 - Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
 - Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will lead to deployment failure and waste your gas
+
+side
+- Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
+- Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
 #### mainnet (not recommend for nobies)
 - Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
@@ -27,6 +31,8 @@ layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+
+### stage 1
 #### freemint contract
 - free mint forever (but should fuel your wallet a penny to cover the gas fee)⛽
 - allow owner to edit the content under portfolio dashboard🃏
@@ -55,3 +61,35 @@ layer-2
 - Bera (id: `80085`; compiler: `^0.8.24`) [contract address](https://artio.beratrail.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Mumbai (id: `80001`; compiler: `^0.8.25`) [contract address](https://mumbai.polygonscan.com/address/0x5F7ae3DEB7ce9DDC244DE3e1b1BebdC3901dc562)
 - Amoy (id: `80002`; compiler: `^0.8.24`) [contract address](https://www.oklink.com/amoy/address/0xa7d555bEF14f10202Bb951DB64095786a040C945)
+
+### stage 2
+#### gguf (ω) mainnet
+- Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷🐷
+
+*layer-2
+- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
+- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
+- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture in most of the wallet; not good
+
+*side
+- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
+
+#### testnet (recommended)
+*layer-1
+- Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
+- Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0x91A395395C9d7Bab9076d368A085065fD40174Ef)
+
+*layer-2
+- Optimism (id: `11155420`; compiler: `^0.8.25`) [contract address](https://sepolia-optimism.etherscan.io/address/0x3a37D12EB3249eBbe69884A0439b64512d8E004F)
+- Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0x505dbc2C6F0db20d3cCdB874465e61cbF5e9cA17)
+- Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
+- Blast (id: `168587773`; compiler: `^0.8.25`) [contract address](https://sepolia.blastscan.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
+- Scroll (id: `534351`; compiler: `^0.8.24`*) [contract address](https://sepolia.scrollscan.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler: data fetching error
+- Linea* (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *rate-limited error; deprecate soon
+- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51) *new compiler: rate-limited error
+
+*side
+- Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
+- Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
+- Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
+- Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
