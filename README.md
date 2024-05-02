@@ -79,7 +79,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be 
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture automatically in most of the wallet (should add it manually; i.e., supported: rainbow, kraken wallet; unsupported: trust, coinbase wallet); not good; so FREE
 
 *side
-- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *don't get it from opensea; is fake💩
+- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *don't get it from opensea; is fake💩 (somebody/bot there; copy your project and suddenly create another one to replace your original one; insane)
 - Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch image data; wait for upgrade; recently closed
 
 #### testnet (recommended)
