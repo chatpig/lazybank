@@ -10,6 +10,17 @@ python server.py
 - no annual fee; no late payment fee; no penalty fee; no hidden fee; no credit check; no no🐷🐷🐷
 - no contract owner; not staking; no earning; no interest; no reward; nothing
 - just a free public storage; do prepare your own lock🔐🐷
+#### mainnet (not recommend for nobies)
+- Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+
+layer-2
+- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+
+side
+- Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
@@ -24,17 +35,6 @@ layer-2
 side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
-#### mainnet (not recommend for nobies)
-- Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
-
-layer-2
-- Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
-- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
-- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
-
-side
-- Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
-- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
 ### stage 1
 #### freemint contract
