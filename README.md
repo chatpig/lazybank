@@ -92,12 +92,15 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be 
 - Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0x505dbc2C6F0db20d3cCdB874465e61cbF5e9cA17)
 - Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
 - Blast (id: `168587773`; compiler: `^0.8.25`) [contract address](https://sepolia.blastscan.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
+- Zora (id: `999999999`; compiler: `^0.8.25`) [contract address](https://sepolia.explorer.zora.energy/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Scroll (id: `534351`; compiler: `^0.8.24`*) [contract address](https://sepolia.scrollscan.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler: data fetching error
 - Linea* (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *rate-limited error; deprecate soon
 - Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51) *new compiler: rate-limited error
+- Rari (id: `1918988905`; compiler: `^0.8.19`*) [contract address](https://explorer.rarichain.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 
 *side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
+- Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
