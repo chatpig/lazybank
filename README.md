@@ -76,7 +76,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be 
 *layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
-- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture automatically in most of the wallet (should add it manually; f.y.i., supported: rainbow, kraken wallet; unsupported: trust, coinbase wallet); not good; so FREE
+- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture automatically in most of the wallet (should add it manually; f.y.i., currently supported: rainbow, kraken wallet; unsupported: trust, coinbase wallet); not good; so FREE
 
 *side
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *don't get it from opensea; is fake💩 (someone/bot there; copy your project name, deploy a template contract, and suddenly replace your original one; insane💩; cheapest attack; seems the trick is reporting your project as spam then creating another one merely with the same name💩; stupid pig everywhere; understandable)
