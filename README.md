@@ -39,7 +39,7 @@ side
 ### stage 1
 #### freemint contract
 - free mint forever (but should fuel your wallet a penny to cover the gas fee)⛽
-- allow owner to edit the content under portfolio dashboard🃏
+- allow owner editing the content under portfolio dashboard🃏
 #### mainnet
 - Ethereum (id: `1`; compiler: `^0.8.24`)
 [contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)🐷🐷🐷
