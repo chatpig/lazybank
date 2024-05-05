@@ -76,6 +76,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be 
 *layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
+- Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) new attempt
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture automatically in most of the wallet (should add it manually; f.y.i., currently supported: rainbow, kraken wallet; unsupported: trust, coinbase wallet); not good; so FREE
 
 *side
