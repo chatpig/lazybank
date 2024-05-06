@@ -10,7 +10,7 @@ python server.py
 - no annual fee; no late payment fee; no penalty fee; no hidden fee; no credit check; no no🐷🐷🐷
 - no contract owner; not staking; no earning; no interest; no reward; nothing
 - just a free public storage; do prepare your own lock🔐🐷
-#### mainnet (not recommend for nobies)
+#### mainnet (not recommended for nobies)
 - Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
 layer-2
@@ -85,7 +85,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
-#### testnet (recommended)
+#### testnet (recommended for developer/nobies)
 *layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0x91A395395C9d7Bab9076d368A085065fD40174Ef)
