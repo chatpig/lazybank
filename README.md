@@ -78,7 +78,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *not supported well yet; f.y.i., currently supported: rainbow, kraken wallet; currently unsupported: trust, coinbase wallet
-- Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interestingly, can be shown in coinbase wallet even price tag is absent; cheap gas & good trial; so FREE
+- Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interestingly, can be shown in rainbow & coinbase wallet even price tag is absent; cheap gas & good trial; so FREE
 
 *side (latest depolyment with compiler downgraded; now it works fine🐷)
 - Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
