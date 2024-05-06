@@ -70,7 +70,7 @@ layer-2
 ### stage 2
 in order to keep what you mint (item) visible; few bucks (similar to gas⛽) will apply in stage 2 contract, since wallet(s) flag freemint as spam then filter out your 🐷(ω);
 current scheme is Ether and all its layer-2 relatives charge 0.001 ($3); the cheapest option is Matic, charge 0.1 (¢7); all of them will go into 🐷(ω)'s pocket without any commitment; fatfat💰;
-actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be there🐷🐷🐷
+actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play around with testnet; choice always be there🐷🐷🐷
 #### gguf (ω) mainnet
 - Ethereum (id: `1`; compiler: `^0.8.25`) [contract address](https://etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷🐷
 
