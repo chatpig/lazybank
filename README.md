@@ -77,12 +77,13 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; choice always be 
 *layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
-- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot show picture automatically in most of the wallet (should add it manually; f.y.i., currently supported: rainbow, kraken wallet; unsupported: trust, coinbase wallet); not good; so FREE
-- Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interesting, can be shown in coinbase wallet even price tag is absent; then FREE
+- Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *not supported in same wallets; f.y.i., currently supported: rainbow, kraken wallet; currently unsupported: trust, coinbase wallet
+- Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interesting, can be shown in coinbase wallet even price tag is absent; good trial; so FREE
 
-*side
-- Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *don't get it from opensea; is fake💩 (someone/bot there; copy your project name, deploy a template contract, and suddenly replace your original one; insane💩; cheapest attack; seems the trick is reporting your project as spam then creating another one merely with the same name💩; stupid pig everywhere; understandable)
-- Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch image data; wait for upgrade; recently closed
+*side (new depolyment with compiler downgraded; now it works fine🐷)
+- Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 #### testnet (recommended)
 *layer-1
