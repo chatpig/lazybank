@@ -20,6 +20,7 @@ layer-2
 
 side
 - Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Avalanche (id: `43114`; compiler: `^0.8.25`) [contract address](https://snowtrace.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
