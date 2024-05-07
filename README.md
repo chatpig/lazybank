@@ -85,6 +85,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 *side (latest depolyment with compiler downgraded; now it works fine🐷)
 - Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Gnosis (id: `100`; compiler: `^0.8.24`) [contract address](https://gnosisscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *might drop in your hidden/archived folder; since too many spam from this chain
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 #### testnet (recommended for dev/nobies)
@@ -106,6 +107,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 *side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
+- Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
