@@ -22,6 +22,7 @@ side
 - Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Avalanche (id: `43114`; compiler: `^0.8.25`) [contract address](https://snowtrace.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosisscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
@@ -36,6 +37,7 @@ layer-2
 side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
+- Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 
 ### stage 1
 #### freemint contract
