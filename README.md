@@ -102,6 +102,8 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Scroll (id: `534351`; compiler: `^0.8.24`*) [contract address](https://sepolia.scrollscan.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler: data fetching error
 - Linea* (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *rate-limited error; deprecate soon
 - Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51) *new compiler: rate-limited error
+
+*layer-3
 - Rari (id: `1918988905`; compiler: `^0.8.19`*) [contract address](https://explorer.rarichain.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 
 *side
