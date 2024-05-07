@@ -83,7 +83,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interestingly, can be shown in rainbow & coinbase wallet even price tag is absent; and surprisingly tradable at opensea; cheap gas & good trial; so make it FREE
 
 *layer-3
-- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should manually add the coin for gas; but still a good trial; so FREE
+- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE
 
 *side (latest depolyment with compiler downgraded; now it works fine🐷)
 - Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
