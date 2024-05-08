@@ -89,7 +89,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 *layer-3
-- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE
+- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
 #### testnet (recommended for dev/nobies)
 *layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
