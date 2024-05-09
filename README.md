@@ -82,14 +82,16 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *not supported well yet; f.y.i., currently supported: rainbow, kraken wallet; currently unsupported: trust, coinbase wallet
 - Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interestingly, can be shown in rainbow & coinbase wallet even price tag is absent; and surprisingly tradable at opensea; cheap gas & good trial; so make it FREE
 
-*side (latest depolyment with compiler downgraded below; same contract but different hash; now it works fine🐷)
+**latest depolyment with compiler downgraded below; same contract but different hash; now it works fine🐷
+
+*side 
 - Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Gnosis (id: `100`; compiler: `^0.8.24`) [contract address](https://gnosisscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *might drop in your hidden/archived folder; since too many spam from this chain
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 *layer-3
-- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
+- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically; good trial
 #### testnet (recommended for dev/nobies)
 *layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
