@@ -17,12 +17,14 @@ layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
 side
 - Binance (id: `56`; compiler: `^0.8.25`) [contract address](https://bscscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Avalanche (id: `43114`; compiler: `^0.8.25`) [contract address](https://snowtrace.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosisscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
