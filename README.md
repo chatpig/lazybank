@@ -97,6 +97,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Gnosis (id: `100`; compiler: `^0.8.24`) [contract address](https://gnosisscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *might drop in your hidden/archived folder; since too many spam from this chain
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 #### testnet (recommended for dev/nobies)
 *layer-1
