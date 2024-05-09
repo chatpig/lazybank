@@ -86,14 +86,18 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 **latest depolyment with compiler downgraded below; same contract but different hash; now it works fine🐷
 
+*layer-2
+- Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *not supported well; default second mainnet in metamask only
+
+*layer-3
+- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
+
 *side 
 - Binance (id: `56`; compiler: `^0.8.24`) [contract address](https://bscscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Avalanche (id: `43114`; compiler: `^0.8.24`) [contract address](https://snowtrace.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Gnosis (id: `100`; compiler: `^0.8.24`) [contract address](https://gnosisscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *might drop in your hidden/archived folder; since too many spam from this chain
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
-*layer-3
-- Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
 #### testnet (recommended for dev/nobies)
 *layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
