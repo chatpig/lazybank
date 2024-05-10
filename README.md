@@ -17,6 +17,7 @@ layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Blast (id: `81457`; compiler: `^0.8.25`) [contract address](https://blastscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
 side
@@ -89,6 +90,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 *layer-2
 - Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *not supported well; default 2nd mainnet in metamask only
+- Blast (id: `81457`; compiler: `^0.8.24`) [contract address](https://blastscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 *layer-3
 - Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
