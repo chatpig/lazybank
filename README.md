@@ -25,6 +25,7 @@ side
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosisscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Celo (id: `42220`; compiler: `^0.8.19`) [contract address](https://celoscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
@@ -98,6 +99,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Gnosis (id: `100`; compiler: `^0.8.24`) [contract address](https://gnosisscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *might drop in your hidden/archived folder; since too many spam from this chain
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Celo (id: `42220`; compiler: `^0.8.19`) [contract address](https://celoscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 #### testnet (recommended for dev/nobies)
 *layer-1
