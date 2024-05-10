@@ -88,7 +88,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 **latest depolyment with compiler downgraded below; same contract but different hash; now it works fine🐷
 
 *layer-2
-- Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *not supported well; default second mainnet in metamask only
+- Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *not supported well; default 2nd mainnet in metamask only
 
 *layer-3
 - Rari (id: `1380012617`; compiler: `^0.8.19`) [contract address](https://mainnet.explorer.rarichain.org/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd) *new attempt; most likely you should add the coin manually for gas; but still a good trial; so FREE; f.y.i., can be shown in coinbase wallet automatically
