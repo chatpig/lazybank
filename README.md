@@ -88,7 +88,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 **not yet ready for ^0.8.25 deployment below; don't waste your gas to deploy, opt to downgrade the compiler version much better
 - Binance (id: `56`; compiler: `^0.8.25`**) [contract address](https://bscscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch data; wait for upgrade; recently closed
-- Blast (id: `81457`; compiler: `^0.8.25`**) [contract address](https://blastscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch data with ^0.8.25; recently closed
+- Blast (id: `81457`; compiler: `^0.8.25`**) [contract address](https://blastscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch image data with ^0.8.25; recently closed
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *works fine but delisted from opensea; closed
 
 ***latest depolyment with compiler downgraded below; same contract but different hash; now it works fine🐷
