@@ -18,6 +18,7 @@ layer-2
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Blast (id: `81457`; compiler: `^0.8.25`) [contract address](https://blastscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Scroll (id: `534352`; compiler: `^0.8.25`) [contract address](https://scrollscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Linea (id: `59144`; compiler: `^0.8.19`) [contract address](https://lineascan.build/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 
