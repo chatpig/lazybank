@@ -111,7 +111,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Celo (id: `42220`; compiler: `^0.8.19`) [contract address](https://celoscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
-#### testnet (recommended for dev/nobies)
+#### testnet (recommended for dev🚧/nobies)
 *layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0x91A395395C9d7Bab9076d368A085065fD40174Ef)
