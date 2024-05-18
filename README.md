@@ -136,3 +136,5 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
+
+reddit community [join us](https://www.reddit.com/r/gguf/)
