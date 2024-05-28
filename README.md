@@ -84,11 +84,11 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 *layer-2
 - Optimism (id: `10`; compiler: `^0.8.25`) [contract address](https://optimistic.etherscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
-- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷🐷
+- Base (id: `8453`; compiler: `^0.8.25`) [contract address](https://basescan.org/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e)🐷
 - Arbitrum (id: `42161`; compiler: `^0.8.25`) [contract address](https://arbiscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *not supported well yet; f.y.i., currently supported: rainbow, kraken wallet; currently unsupported: trust, coinbase wallet
 - Zora (id: `7777777`; compiler: `^0.8.25`) [contract address](https://explorer.zora.energy/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *new attempt; not yet supported in most of the wallet; but interestingly, can be shown in rainbow & coinbase wallet even price tag is absent; and surprisingly tradable at opensea; cheap gas & good trial; so make it FREE
 
-**not yet ready for ^0.8.25 deployment below; don't waste your gas to deploy, opt to downgrade the compiler version much better
+**not yet ready for ^0.8.25/26 deployment below; don't waste your gas to deploy, opt to downgrade the compiler version much better
 - Binance (id: `56`; compiler: `^0.8.25`**) [contract address](https://bscscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch data; wait for upgrade; recently closed
 - Blast (id: `81457`; compiler: `^0.8.25`**) [contract address](https://blastscan.io/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *cannot fetch image data with ^0.8.25; recently closed
 - Polygon (id: `137`; compiler: `^0.8.25`) [contract address](https://polygonscan.com/address/0x73AEda68A10b8917C08060938Ae7274BEDAFD78e) *works fine but delisted from opensea; closed
