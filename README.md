@@ -113,7 +113,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 #### testnet (recommended for dev🚧/nobies)
 *layer-1
-- Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x5C22a1C97A4BEbBf17fb06edEf2eE1f5d559bC7f)
+- Sepolia (id: `11155111`; compiler: `^0.8.26`) [contract address](https://sepolia.etherscan.io/address/0xAcD6d9397182D4A6D3F19b46fAf1baAace3b33F0) **test the latest compiler ^0.8.26
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0x91A395395C9d7Bab9076d368A085065fD40174Ef)
 
 *layer-2
@@ -134,6 +134,10 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
+- Cronos (id: `338`; compiler: `^0.8.24`*) [contract address](https://cronos.org/explorer/testnet3/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9) *new compiler: data fetching error
+- Moonbase (id: `1287`; compiler: `^0.8.24`*) [contract address](https://moonbase.moonscan.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9) *new compiler: data fetching error
+- Donau (id: `1029`; compiler: `^0.8.19`*) [contract address](https://testscan.bt.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
+- Canto (id: `7701`; compiler: `^0.8.19`*) [contract address](https://testnet-explorer.canto.neobase.one/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 
