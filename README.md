@@ -117,9 +117,9 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Holesky (id: `17000`; compiler: `^0.8.26`) [contract address](https://holesky.etherscan.io/address/0xc897462f9C10962298fB39adc70Dd09D3664CF0B) ***the latest compiler on test
 
 *layer-2
-- Optimism (id: `11155420`; compiler: `^0.8.26`) [contract address](https://sepolia-optimism.etherscan.io/address/0x35aAB2F85f91682Ae0048A6b32a6c3e045335da1) ***the latest compiler on test
-- Arbitrum (id: `421614`; compiler: `^0.8.26`) [contract address](https://sepolia.arbiscan.io/address/0x3a37D12EB3249eBbe69884A0439b64512d8E004F) ***the latest compiler on test
-- Base (id: `84532`; compiler: `^0.8.26`) [contract address](https://sepolia.basescan.org/address/0x505dbc2C6F0db20d3cCdB874465e61cbF5e9cA17) ***the latest compiler on test
+- Optimism (id: `11155420`; compiler: `^0.8.26`) [contract address](https://sepolia-optimism.etherscan.io/address/0x35aAB2F85f91682Ae0048A6b32a6c3e045335da1) **the latest compiler on test
+- Arbitrum (id: `421614`; compiler: `^0.8.26`) [contract address](https://sepolia.arbiscan.io/address/0x3a37D12EB3249eBbe69884A0439b64512d8E004F) **the latest compiler on test
+- Base (id: `84532`; compiler: `^0.8.26`) [contract address](https://sepolia.basescan.org/address/0x505dbc2C6F0db20d3cCdB874465e61cbF5e9cA17) **the latest compiler on test
 - Zora (id: `999999999`; compiler: `^0.8.25`) [contract address](https://sepolia.explorer.zora.energy/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Blast (id: `168587773`; compiler: `^0.8.25`) [contract address](https://sepolia.blastscan.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
 - Scroll (id: `534351`; compiler: `^0.8.24`*) [contract address](https://sepolia.scrollscan.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler: data fetching error
@@ -130,7 +130,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Rari (id: `1918988905`; compiler: `^0.8.19`*) [contract address](https://explorer.rarichain.org/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 
 *side
-- Amoy (id: `80002`; compiler: `^0.8.26`) [contract address](https://www.oklink.com/amoy/address/0x2b76DFFf6B1E9DEd9F7D5c564cAD440667DC4E45) ***the latest compiler on test
+- Amoy (id: `80002`; compiler: `^0.8.26`) [contract address](https://www.oklink.com/amoy/address/0x2b76DFFf6B1E9DEd9F7D5c564cAD440667DC4E45) **the latest compiler on test
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x779de85Db533eb51Fa751E8e480888A7Ac433A51)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
