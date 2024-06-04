@@ -141,7 +141,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 
-all the contracts deployed above can be interacted straight with https://gguf.us
+all the contracts deployed above can be interacted straight with gguf.us
 #### publication📚
 medium article [discover the hidden gem of gguf (unleash the power of editable tokens)](https://medium.com/@whiteblanksheet/discover-the-hidden-functionality-of-gguf-us-unleash-the-power-of-editable-tokens-b8fb92a76eac) *FREE read; no membership needed
 
