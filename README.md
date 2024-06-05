@@ -38,9 +38,9 @@ layer-2
 - Optimism (id: `11155420`; compiler: `^0.8.25`) [contract address](https://sepolia-optimism.etherscan.io/address/0x77A942086651Bf116D03bBf06B0D154e07bbb83D)
 - Arbitrum (id: `421614`; compiler: `^0.8.25`) [contract address](https://sepolia.arbiscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be)
 - Base (id: `84532`; compiler: `^0.8.25`) [contract address](https://sepolia.basescan.org/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
-- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will lead to deployment failure and waste your gas
 - Blast (id: `168587773`; compiler: `^0.8.26`) [contract address](https://sepolia.blastscan.io/address/0xc8C04e883A801F1ddBd11aC2d4918B38Ff3f86Be) ***the latest compiler on test
 - Scroll (id: `534351`; compiler: `^0.8.26`) [contract address](https://sepolia.scrollscan.com/address/0x99672b44d224b468191F7Fdb6b0b67d7F5908F61) ***the latest compiler on test
+- Linea (id: `59141`; compiler: `^0.8.19`*) [contract address](https://sepolia.lineascan.build/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *buggy; newer compiler will lead to deployment failure and waste your gas
 
 side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
