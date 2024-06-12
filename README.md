@@ -133,7 +133,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 *side
 - Amoy (id: `80002`; compiler: `^0.8.26`) [contract address](https://www.oklink.com/amoy/address/0x2b76DFFf6B1E9DEd9F7D5c564cAD440667DC4E45) **the latest compiler on test
-- Binance (id: `97`; compiler: `^0.8.26`) [contract address](https://testnet.bscscan.com/address/0x17F6E6E620cec1054b9E1F15b461Ca8deAfD904c) ***the latest compiler on test
+- Binance (id: `97`; compiler: `^0.8.26`) [contract address](https://testnet.bscscan.com/address/0x17F6E6E620cec1054b9E1F15b461Ca8deAfD904c) **the latest compiler on test
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
 - Cronos (id: `338`; compiler: `^0.8.24`*) [contract address](https://cronos.org/explorer/testnet3/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9) *new compiler: data fetching error
