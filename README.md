@@ -46,6 +46,7 @@ side
 - Amoy (id: `80002`; compiler: `^0.8.25`) [contract address](https://www.oklink.com/amoy/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
+- Saigon (id: `2021`; compiler: `^0.8.19`*) [contract address](https://saigon-app.roninchain.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler not supported
 
 ### stage 1
 #### freemint contract
@@ -142,6 +143,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Canto (id: `7701`; compiler: `^0.8.19`*) [contract address](https://testnet-explorer.canto.neobase.one/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
+- Saigon (id: `2021`; compiler: `^0.8.19`*) [contract address](https://saigon-app.roninchain.com/address/0xb95be2acdf69e9a5357606f7031933c598259772) *new compiler: rate-limited error
 
 *all the contracts deployed above can be interacted straight with gguf.us
 #### publication📚
