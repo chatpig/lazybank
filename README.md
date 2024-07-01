@@ -47,6 +47,7 @@ side
 - Binance (id: `97`; compiler: `^0.8.25`) [contract address](https://testnet.bscscan.com/address/0x17C17e1721Bc6fdC1A278ed1AF9600fbFcF154D6)
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosis-chiado.blockscout.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Saigon (id: `2021`; compiler: `^0.8.19`*) [contract address](https://saigon-app.roninchain.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler not supported
+- Athens (id: `7001`; compiler: `^0.8.19`*) [contract address](https://athens.explorer.zetachain.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler not supported
 
 ### stage 1
 #### freemint contract
