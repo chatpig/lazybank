@@ -114,6 +114,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Polygon (id: `137`; compiler: `^0.8.24`) [contract address](https://polygonscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 - Celo (id: `42220`; compiler: `^0.8.19`) [contract address](https://celoscan.io/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
+- Zeta (id: `7000`; compiler: `^0.8.19`) [contract address](https://explorer.zetachain.com/address/0x6c4c92595E9c58603ae712e0188a4a3Dcd87dEdd)
 
 #### testnet (recommended for dev🚧/nobies)
 *layer-1
