@@ -29,6 +29,7 @@ side
 - Gnosis (id: `10200`; compiler: `^0.8.25`) [contract address](https://gnosisscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Fantom (id: `250`; compiler: `^0.8.19`) [contract address](https://ftmscan.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 - Celo (id: `42220`; compiler: `^0.8.19`) [contract address](https://celoscan.io/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
+- Zeta (id: `7000`; compiler: `^0.8.19`) [contract address](https://explorer.zetachain.com/address/0xF11A268C951136B3352F1eDF756a6F0004F95f72)
 #### testnet (recommended)
 layer-1
 - Sepolia (id: `11155111`; compiler: `^0.8.25`) [contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
