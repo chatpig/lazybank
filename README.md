@@ -144,7 +144,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Avalanche (id: `43113`; compiler: `^0.8.24`*) [contract address](https://testnet.snowtrace.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2) *new compiler: data fetching error
 - Cronos (id: `338`; compiler: `^0.8.24`*) [contract address](https://cronos.org/explorer/testnet3/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9) *new compiler: data fetching error
 - Moonbase (id: `1287`; compiler: `^0.8.24`*) [contract address](https://moonbase.moonscan.io/address/0xEDeBb64Fa2D6DA4DD005B69f10Ec218b45E64fc9) *new compiler: data fetching error
-- Mantle (id: `5003`; compiler: `^0.8.24`*) [contract address](https://5003.testnet.routescan.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: data fetching error
+- Mantle (id: `5003`; compiler: `^0.8.24`*) [contract address](https://explorer.sepolia.mantle.xyz/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: data fetching error
 - Donau (id: `1029`; compiler: `^0.8.19`*) [contract address](https://testscan.bt.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 - Canto (id: `7701`; compiler: `^0.8.19`*) [contract address](https://testnet-explorer.canto.neobase.one/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 - Fantom (id: `4002`; compiler: `^0.8.19`*) [contract address](https://testnet.ftmscan.com/address/0xB4e31320Be11bAab45817414274a3e98577bDafd) *new compiler: rate-limited error
