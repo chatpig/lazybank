@@ -126,7 +126,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Optimism (id: `11155420`; compiler: `^0.8.26`**) [contract address](https://sepolia-optimism.etherscan.io/address/0x35aAB2F85f91682Ae0048A6b32a6c3e045335da1) **the latest compiler on test
 - Arbitrum (id: `421614`; compiler: `^0.8.26`**) [contract address](https://sepolia.arbiscan.io/address/0x3a37D12EB3249eBbe69884A0439b64512d8E004F) **the latest compiler on test
 - Base (id: `84532`; compiler: `^0.8.26`**) [contract address](https://sepolia.basescan.org/address/0x505dbc2C6F0db20d3cCdB874465e61cbF5e9cA17) **the latest compiler on test
-- Cyber (id: `111557560`; compiler: `^0.8.26`) [contract address](https://cyber-testnet.socialscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) **the latest compiler on test
+- Cyber (id: `111557560`; compiler: `^0.8.26`**) [contract address](https://cyber-testnet.socialscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) **the latest compiler on test
 - Zora (id: `999999999`; compiler: `^0.8.25`) [contract address](https://sepolia.explorer.zora.energy/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 - Blast (id: `168587773`; compiler: `^0.8.25`) [contract address](https://sepolia.blastscan.io/address/0xbbdfDde6dD2B9bE175d4e88F6F7EFaea26Ab92b2)
 - Scroll (id: `534351`; compiler: `^0.8.24`*) [contract address](https://sepolia.scrollscan.com/address/0x6b69c2d996aBf06F2362E6C45Eb7930016885dE0) *new compiler: data fetching error
