@@ -151,6 +151,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 - Celo (id: `44787`; compiler: `^0.8.19`*) [contract address](https://alfajores.celoscan.io/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
 - Saigon (id: `2021`; compiler: `^0.8.19`*) [contract address](https://saigon-app.roninchain.com/address/0xb95be2acdf69e9a5357606f7031933c598259772) *new compiler: rate-limited error
 - Athens (id: `7001`; compiler: `^0.8.19`*) [contract address](https://athens.explorer.zetachain.com/address/0xB95BE2Acdf69E9A5357606f7031933c598259772) *new compiler: rate-limited error
+- Story (id: `1513`; compiler: `^0.8.26`) [contract address](https://testnet.storyscan.xyz/address/0xB95BE2Acdf69E9A5357606f7031933c598259772)
 
 *all the contracts deployed above can be interacted straight with gguf.us
 #### publication📚
