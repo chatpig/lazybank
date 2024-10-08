@@ -119,7 +119,7 @@ actually you can opt stage 1 (freemint) contract at c.gguf.us; or simply play ar
 
 #### testnet (recommended for dev🚧/nobies)
 *layer-1
-- Sepolia (id: `11155111`; compiler: `^0.8.26`) [contract address](https://sepolia.etherscan.io/address/0xAcD6d9397182D4A6D3F19b46fAf1baAace3b33F0)
+- Sepolia (id: `11155111`; compiler: `^0.8.27`) [contract address](https://sepolia.etherscan.io/address/0x3822671bED33573Ce9D7aB728803610559F3859F)***the latest compiler on test
 - Holesky (id: `17000`; compiler: `^0.8.27`**) [contract address](https://holesky.etherscan.io/address/0x5F7ae3DEB7ce9DDC244DE3e1b1BebdC3901dc562) **the latest compiler on test
 
 *layer-2
